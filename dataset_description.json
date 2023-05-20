@@ -5,5 +5,9 @@
     "Authors": [
         "Zoltan Kekecs",
         "Yeganeh Farahzadi"
-    ]
+    ],
+    "Funding": [
+        "Hungarian National Research, Development and Innovation Office (NKFIH, Grant No.: FK 132248)"
+    ],
+    "License": "CC0"
 }
