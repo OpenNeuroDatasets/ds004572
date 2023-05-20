@@ -1,0 +1,9 @@
+{
+    "Name": "OTKA PLB-HYP Study1",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Zoltan Kekecs",
+        "Yeganeh Farahzadi"
+    ]
+}
